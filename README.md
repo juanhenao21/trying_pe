@@ -1,4 +1,4 @@
-# Me and Project Euler
+# Project Euler and Me
 
 These are the implementations to get the solutions of the problems of the [Project Euler Website](https://projecteuler.net).
 This repository is made to have a control of what I have done with the problems and I do not recommend to see the implementations. They are two main reasons
